@@ -1,0 +1,13 @@
+C:\Users\willi\source\repos\Reto_Estudiantes\Reto_Estudiantes\obj\Debug\netcoreapp3.1\Reto_Estudiantes.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\Reto_Estudiantes\Reto_Estudiantes\obj\Debug\netcoreapp3.1\Reto_Estudiantes.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\Reto_Estudiantes\Reto_Estudiantes\obj\Debug\netcoreapp3.1\Reto_Estudiantes.AssemblyInfo.cs
+C:\Users\willi\source\repos\Reto_Estudiantes\Reto_Estudiantes\obj\Debug\netcoreapp3.1\Reto_Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Reto_Estudiantes\Reto_Estudiantes\bin\Debug\netcoreapp3.1\Reto_Estudiantes.exe
+C:\Users\willi\source\repos\Reto_Estudiantes\Reto_Estudiantes\bin\Debug\netcoreapp3.1\Reto_Estudiantes.deps.json
+C:\Users\willi\source\repos\Reto_Estudiantes\Reto_Estudiantes\bin\Debug\netcoreapp3.1\Reto_Estudiantes.runtimeconfig.json
+C:\Users\willi\source\repos\Reto_Estudiantes\Reto_Estudiantes\bin\Debug\netcoreapp3.1\Reto_Estudiantes.runtimeconfig.dev.json
+C:\Users\willi\source\repos\Reto_Estudiantes\Reto_Estudiantes\bin\Debug\netcoreapp3.1\Reto_Estudiantes.dll
+C:\Users\willi\source\repos\Reto_Estudiantes\Reto_Estudiantes\bin\Debug\netcoreapp3.1\Reto_Estudiantes.pdb
+C:\Users\willi\source\repos\Reto_Estudiantes\Reto_Estudiantes\obj\Debug\netcoreapp3.1\Reto_Estudiantes.dll
+C:\Users\willi\source\repos\Reto_Estudiantes\Reto_Estudiantes\obj\Debug\netcoreapp3.1\Reto_Estudiantes.pdb
+C:\Users\willi\source\repos\Reto_Estudiantes\Reto_Estudiantes\obj\Debug\netcoreapp3.1\Reto_Estudiantes.genruntimeconfig.cache

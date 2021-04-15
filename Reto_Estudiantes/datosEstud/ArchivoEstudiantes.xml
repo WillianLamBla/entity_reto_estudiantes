@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEstudiante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Estudiante>
+    <Codigo>110</Codigo>
+    <Nombre>mary</Nombre>
+    <Nota1>50</Nota1>
+    <Nota2>40</Nota2>
+    <Nota3>50</Nota3>
+  </Estudiante>
+  <Estudiante>
+    <Codigo>10</Codigo>
+    <Nombre>nui</Nombre>
+    <Nota1>10.55</Nota1>
+    <Nota2>40.23</Nota2>
+    <Nota3>20.1</Nota3>
+  </Estudiante>
+  <Estudiante>
+    <Codigo>12</Codigo>
+    <Nombre>bui</Nombre>
+    <Nota1>50.2</Nota1>
+    <Nota2>50.3</Nota2>
+    <Nota3>51.2</Nota3>
+  </Estudiante>
+  <Estudiante>
+    <Codigo>1412</Codigo>
+    <Nombre>betho ben</Nombre>
+    <Nota1>40</Nota1>
+    <Nota2>50</Nota2>
+    <Nota3>50</Nota3>
+  </Estudiante>
+  <Estudiante>
+    <Codigo>1414</Codigo>
+    <Nombre>carmen</Nombre>
+    <Nota1>4.5</Nota1>
+    <Nota2>4.4</Nota2>
+    <Nota3>3.5</Nota3>
+  </Estudiante>
+  <Estudiante>
+    <Codigo>1413</Codigo>
+    <Nombre>guillermo</Nombre>
+    <Nota1>5</Nota1>
+    <Nota2>4</Nota2>
+    <Nota3>4.3</Nota3>
+  </Estudiante>
+</ArrayOfEstudiante>
